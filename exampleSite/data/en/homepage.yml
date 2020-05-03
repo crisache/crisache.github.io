@@ -36,7 +36,7 @@ service:
   enable: true
 cta:
   enable: true
-  bg_image: images/call-to-action-bg.jpg
+  bg_image: images/grenoble.jpg
   title: 'Pour me contacter -   '
   content: Meri de remplir le questionnaire ci dessous
   button:
