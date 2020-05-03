@@ -32,7 +32,7 @@ featured_service:
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
       impedit repudiandae omnis est temporibus.
 service:
-  enable: false
+  enable: true
   title: Laboratories and observatories
   description: Here you can find links to the various laboratories and observatories
     I collaborated with
