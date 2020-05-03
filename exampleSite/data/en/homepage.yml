@@ -97,21 +97,21 @@ funfacts:
   testimonial_slider:
     # testimonial item loop
     - name : "John Loy"
-      image : "images/clients/avater-1.jpg"
+      image : "images/clients/avater-1.png"
       designation : "IRAM team leader"
       content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
                 ideas we feel that our site has unique elements that make us stand out from the crowd."
                 
     # testimonial item loop
     - name : "Bob thuring"
-      image : "images/clients/avater-1.jpg"
+      image : "images/clients/avater-1.png"
       designation : "Les "
       content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
                 ideas we feel that our site has unique elements that make us stand out from the crowd."
                 
     # testimonial item loop
     - name : "Rose Rio"
-      image : "images/clients/avater-3.jpg"
+      image : "images/clients/avater-2.jpg"
       designation : "CEO-Themefisher"
       content : "This Company created an e-commerce site with the tools to make our business a success, with innovative
                 ideas we feel that our site has unique elements that make us stand out from the crowd."
