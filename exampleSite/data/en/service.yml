@@ -42,8 +42,7 @@ service:
     content: IRAM
   - icon: ion-compass
     name: NRAO
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    content: lili loulou
   - icon: ion-image
     name: ESO
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
