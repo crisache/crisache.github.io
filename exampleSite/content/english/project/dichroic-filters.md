@@ -2,7 +2,6 @@
 bg_image = "/images/fend_fig2.jpg"
 category = "Filters"
 description = "Development of filter on quartz"
-draft = true
 image = "/images/dichroic_iram1-1.png"
 title = "Dichroic filters"
 [[information]]
