@@ -7,8 +7,8 @@ category: SIS mixers
 information:
 - label: Leader
   info: 'D. Ma '
-- label: What We Did
-  info: Website Redesign
+- label: material
+  info: Niobium
 - label: Tools Used
   info: Photoshop,Illustrator
 - label: Completed on
