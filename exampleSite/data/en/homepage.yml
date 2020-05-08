@@ -42,7 +42,7 @@ funfacts:
   description: "'toto lliili et lulu , <br> there live the blind texts. Separated
     they live in Bookmarksgrove right at the coast of the Semantics'"
   funfact_item:
-  - icon: ion-ios-chatboxes-outline
+  - icon: ion-stats-bars
     name: Instruments commissioned
     count: "13"
   - icon: ion-leaf
