@@ -48,7 +48,7 @@ funfacts:
   - icon: ion-leaf
     name: Articles Written
     count: "98"
-  - icon: ion-ios-compose-outline
+  - icon: ion-flag
     name: Projects Completed
     count: "125"
   - icon: ion-ios-timer-outline
