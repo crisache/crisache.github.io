@@ -11,8 +11,8 @@ information:
   info: Niobium
 - label: Lithography
   info: Optical - e-beam
-- label: Completed on
-  info: 17th March 2014
+- label: Junction size
+  info: typical 1um2
 - label: Skills
   info: HTML5 / PHP / CSS3
 - label: Client
