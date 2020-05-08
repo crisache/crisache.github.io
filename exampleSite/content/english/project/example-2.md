@@ -14,8 +14,8 @@ label = "Transistor"
 info = "2-300 K"
 label = "Operating temperature"
 [[information]]
-info = ""
-label = ""
+info = "4-5 K"
+label = "Noise tempetarure"
 [[information]]
 info = "details can be found here "
 label = "Project HEMT 4-8 GHz"
