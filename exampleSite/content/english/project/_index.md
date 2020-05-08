@@ -1,8 +1,8 @@
 ---
-title: Dichroic filters
-description: Development of filter on quartz
+title: Instrumentation development
+description: Latest project under development
 bg_image: "/images/fend_fig2.jpg"
-image: "/images/dichroic_iram1-1.png"
+image: "/images/fend_fig7.jpg"
 category: Filters
 information:
 - label: technology
