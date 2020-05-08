@@ -7,7 +7,8 @@ category: SIS mixers
 information:
 - label: technology
   info: Quartz
-- {}
+- label: metallization
+  info: Aluminium or Gold
 - {}
 
 ---
