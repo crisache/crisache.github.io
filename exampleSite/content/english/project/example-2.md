@@ -5,7 +5,7 @@ description = "mm wave instrumentation"
 image = "/images/fend_fig7.jpg"
 title = "Example 2"
 [[information]]
-info = "details can be found here"
+info = "details can be found here "
 label = "Project HEMT 4-8 GHz"
 
 +++
