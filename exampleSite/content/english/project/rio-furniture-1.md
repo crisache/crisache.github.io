@@ -13,10 +13,6 @@ information:
   info: Optical - e-beam
 - label: Junction size
   info: typical 1um2
-- label: Skills
-  info: HTML5 / PHP / CSS3
-- label: Client
-  info: Jannie Kelonsky
 
 ---
 ## SIS mixers design
