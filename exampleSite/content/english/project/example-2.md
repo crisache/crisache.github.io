@@ -5,6 +5,18 @@ description = "mm wave instrumentation"
 image = "/images/fend_fig7.jpg"
 title = "Example 2"
 [[information]]
+info = "4-8 GHz"
+label = "bandwith "
+[[information]]
+info = ""
+label = ""
+[[information]]
+info = ""
+label = ""
+[[information]]
+info = ""
+label = ""
+[[information]]
 info = "details can be found here "
 label = "Project HEMT 4-8 GHz"
 
