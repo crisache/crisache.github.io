@@ -9,8 +9,8 @@ information:
   info: 'D. Ma '
 - label: material
   info: Niobium
-- label: Tools Used
-  info: Photoshop,Illustrator
+- label: Lithography
+  info: Optical - e-beam
 - label: Completed on
   info: 17th March 2014
 - label: Skills
