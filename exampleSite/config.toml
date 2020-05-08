@@ -82,7 +82,7 @@ map_longitude = "5.760592"
 map_marker = "images/marker.png"
 [params.nav_button]
 enable = true
-label = "Get A Quote"
+label = "Contact"
 link = "contact"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
