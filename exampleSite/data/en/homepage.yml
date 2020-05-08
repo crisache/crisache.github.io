@@ -20,10 +20,7 @@ portfolio:
   enable: true
   bg_image: images/sofia_2.jpg
   title: How to reach me
-  content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
-    ac, vsus.\n\nMaecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
-    ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris
-    condimentum nibh, ut fermentum massa justo sit amet risus. "
+  content: " address 1 is : \n\n contact per email /  "
   button:
     enable: true
     label: View Works
