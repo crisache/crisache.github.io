@@ -38,9 +38,8 @@ cta:
     link: contact
 funfacts:
   enable: true
-  title: Fun Facts About Us
-  description: "'toto lliili et lulu , <br> there live the blind texts. Separated
-    they live in Bookmarksgrove right at the coast of the Semantics'"
+  title: Fun Facts
+  description: "'toto lliili et lulu '"
   funfact_item:
   - icon: ion-stats-bars
     name: Instruments commissioned
