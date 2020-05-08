@@ -11,8 +11,8 @@ label = "bandwidth "
 info = "GaAs"
 label = "Transistor"
 [[information]]
-info = ""
-label = ""
+info = "2-300 K"
+label = "Operating temperature"
 [[information]]
 info = ""
 label = ""
