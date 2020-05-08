@@ -1,6 +1,6 @@
 +++
 bg_image = ""
-category = ""
+category = "Instrumentation hardware"
 description = "mm wave instrumentation"
 image = ""
 title = "Example 2"
