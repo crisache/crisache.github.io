@@ -9,6 +9,7 @@ information:
   info: Quartz
 - label: metallization
   info: Aluminium or Gold
-- {}
+- label: design
+  info: 3 to 7 layers
 
 ---
