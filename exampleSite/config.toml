@@ -113,15 +113,3 @@ link = "#"
 [[params.social]]
 icon = "ion-social-linkedin-outline"
 link = "#"
-[[params.social]]
-icon = "ion-social-pinterest-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-dribbble-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-twitter-outline"
-link = "#"
-[[params.social]]
-icon = "ion-social-facebook-outline"
-link = "#"
