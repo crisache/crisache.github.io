@@ -1,6 +1,8 @@
 ---
-title: "Our Project"
-description: "this is meta description"
-draft: false
-bg_image: "images/featue-bg.jpg"
+title: Dichroic filters
+description: Development of filter on quartz
+bg_image: "/images/fend_fig2.jpg"
+image: "/images/dichroic_iram1-1.png"
+category: SIS mixers
+
 ---
