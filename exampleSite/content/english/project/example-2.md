@@ -1,6 +1,6 @@
 +++
 bg_image = "/images/fend_fig7.jpg"
-category = "Instrumentation hardware"
+category = "Hardware"
 description = "mm wave instrumentation"
 image = "/images/fend_fig7.jpg"
 title = "HEMT devices"
