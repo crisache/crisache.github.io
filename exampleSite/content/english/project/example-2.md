@@ -1,5 +1,5 @@
 +++
-bg_image = "/images/fend_fig4.jpg"
+bg_image = "/images/fend_fig7.jpg"
 category = "Instrumentation hardware"
 description = "mm wave instrumentation"
 image = "/images/fend_fig7.jpg"
