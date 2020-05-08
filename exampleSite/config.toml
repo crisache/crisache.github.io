@@ -105,7 +105,7 @@ link = "#"
 icon = "ion-social-linkedin-outline"
 link = "https://www.linkedin.com/si"
 [[params.social]]
-icon = "ion-social-pinterest-outline"
+icon = "ion-compose"
 link = "#"
 [[params.social]]
 icon = "ion-social-dribbble-outline"
