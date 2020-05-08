@@ -3,7 +3,7 @@ bg_image = "/images/fend_fig4.jpg"
 category = "Instrumentation hardware"
 description = "mm wave instrumentation"
 image = "/images/fend_fig7.jpg"
-title = "Example 2"
+title = "HEMT devices"
 [[information]]
 info = "4-8 GHz"
 label = "bandwidth "
