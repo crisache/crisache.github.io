@@ -4,7 +4,7 @@ category = "SIS mixers"
 description = ""
 draft = true
 image = "/images/dichroic_iram1-2.png"
-title = ""
+title = "HEB mixers"
 [[information]]
 info = "1"
 label = "priority"
