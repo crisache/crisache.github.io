@@ -3,7 +3,7 @@ title: SIS mixers
 description: 'Junctions '
 image: "/images/fend_fig2.jpg"
 bg_image: "/images/A8.png"
-category: SIS mixers
+category: superconducting devices
 information:
 - label: Leader
   info: 'D. Ma '
