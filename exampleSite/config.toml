@@ -58,7 +58,7 @@ weight = 6
 [params]
 author = "Themefisher"
 contact_form_action = "#"
-description = "This is meta description"
+description = "Details"
 email = "demo@email.com"
 google_analitycs_id = ""
 location = "Grenoble, France"
