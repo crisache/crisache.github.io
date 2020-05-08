@@ -60,7 +60,6 @@ URL = "blog"
 name = "Opportunities"
 weight = 4
 [[menu.main]]
-[[menu.main]]
 URL = "contact"
 name = "Contact"
 weight = 6
