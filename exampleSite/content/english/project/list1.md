@@ -1,6 +1,6 @@
 +++
 bg_image = "/images/fend_fig7.jpg"
-category = "SIS mixers"
+category = "HEB"
 description = ""
 image = "/images/dichroic_iram1-2.png"
 title = "HEB mixers"
