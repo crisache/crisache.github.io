@@ -6,7 +6,7 @@ image = "/images/fend_fig7.jpg"
 title = "Example 2"
 [[information]]
 info = "4-8 GHz"
-label = "bandwith "
+label = "bandwidth "
 [[information]]
 info = ""
 label = ""
