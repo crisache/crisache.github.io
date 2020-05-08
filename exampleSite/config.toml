@@ -112,7 +112,7 @@ icon = "ion-arrow-right-a"
 link = "#"
 [[params.social]]
 icon = "ion-social-linkedin-outline"
-link = "#"
+link = "https://www.linkedin.com/si"
 [[params.social]]
 icon = "ion-social-pinterest-outline"
 link = "#"
