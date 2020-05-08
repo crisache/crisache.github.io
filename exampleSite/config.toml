@@ -1,5 +1,5 @@
 baseURL = "https://crisache.netlify.app"
-disableLanguages = []
+disableLanguages = ["test1"]
 disqusShortname = ""
 paginate = "4"
 summaryLength = "30"
