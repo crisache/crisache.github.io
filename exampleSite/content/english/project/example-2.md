@@ -8,8 +8,8 @@ title = "Example 2"
 info = "4-8 GHz"
 label = "bandwidth "
 [[information]]
-info = ""
-label = ""
+info = "GaAs"
+label = "Transistor"
 [[information]]
 info = ""
 label = ""
