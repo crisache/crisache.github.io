@@ -111,7 +111,7 @@ link = "#"
 icon = "ion-planet"
 link = "#"
 [[params.social]]
-icon = "<ion-icon name=\"boat-outline\"></ion-icon>"
+icon = "ion-images"
 link = "https://www.researchgate.net/profile/Christophe_Risacher"
 [[params.social]]
 icon = "ion-social-facebook-outline"
