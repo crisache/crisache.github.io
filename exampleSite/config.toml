@@ -120,7 +120,7 @@ link = "#"
 icon = "ion-social-dribbble-outline"
 link = "#"
 [[params.social]]
-icon = "ion-icon-airplane-outline"
+icon = "<ion-icon name=\"boat-outline\"></ion-icon>"
 link = "https://www.researchgate.net/profile/Christophe_Risacher"
 [[params.social]]
 icon = "ion-social-facebook-outline"
