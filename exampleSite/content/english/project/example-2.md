@@ -2,7 +2,6 @@
 bg_image = ""
 category = ""
 description = "mm wave instrumentation"
-draft = true
 image = ""
 title = "Example 2"
 [[information]]
