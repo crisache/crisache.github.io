@@ -20,41 +20,41 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.footer]]
-URL = "contact"
-name = "Contact"
-weight = 4
-[[menu.footer]]
-URL = "service"
-name = "Service"
-weight = 3
+URL = "about"
+name = "About"
+weight = 1
 [[menu.footer]]
 URL = "project"
 name = "Project"
 weight = 2
 [[menu.footer]]
-URL = "about"
-name = "About"
-weight = 1
-[[menu.main]]
+URL = "service"
+name = "Service"
+weight = 3
+[[menu.footer]]
 URL = "contact"
 name = "Contact"
+weight = 6
+[[menu.main]]
+URL = "about"
+name = "Vitae"
 weight = 1
 [[menu.main]]
-URL = "blog"
-name = "Opportunities"
-weight = 5
+URL = "project"
+name = "Projects"
+weight = 2
 [[menu.main]]
 URL = "service"
 name = "Publications"
 weight = 3
 [[menu.main]]
-URL = "project"
-name = "Projects"
+URL = "blog"
+name = "Opportunities"
 weight = 4
 [[menu.main]]
-URL = "about"
-name = "Vitae"
-weight = 2
+URL = "contact"
+name = "Contact"
+weight = 6
 [params]
 author = "Themefisher"
 contact_form_action = "#"
@@ -103,7 +103,7 @@ icon = "ion-settings"
 link = "#"
 [[params.social]]
 icon = "ion-social-linkedin-outline"
-link = "https://www.linkedin.com/si"
+link = "https://www.linkedin.com/christopherisacher"
 [[params.social]]
 icon = "ion-compose"
 link = "#"
