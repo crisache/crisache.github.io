@@ -60,10 +60,8 @@ funfacts:
     content: lgugou
   - name: APEX Telescope
     image: images/clients/avater-1.png
-    designation: IRAM team leader
-    content: This Company created an e-commerce site with the tools to make our business
-      a success, with innovative ideas we feel that our site has unique elements that
-      make us stand out from the crowd.
+    designation: 12m submm telescope locate on the Chajnantor Plateau at 5100m
+    content: 'Pathfinder telescope which started operation in 2005 '
   - name: Bob thuring
     image: images/clients/avater-1.png
     designation: 'Les '
