@@ -30,8 +30,8 @@ service:
 cta:
   enable: true
   bg_image: images/grenoble.jpg
-  title: 'Pour me contacter -   '
-  content: Meri de remplir le questionnaire ci dessous
+  title: to contact me
+  content: 'Please fill the form '
   button:
     enable: true
     label: Pour me contacter
