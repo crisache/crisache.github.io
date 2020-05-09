@@ -103,7 +103,7 @@ icon = "ion-settings"
 link = "#"
 [[params.social]]
 icon = "ion-social-linkedin-outline"
-link = "https://www.linkedin.com/christopherisacher"
+link = "https://www.linkedin.com/in/christopherisacher"
 [[params.social]]
 icon = "ion-compose"
 link = "#"
