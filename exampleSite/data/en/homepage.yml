@@ -39,7 +39,7 @@ cta:
 funfacts:
   enable: true
   title: Some observatories
-  description: "'toto lliili et lulu '"
+  description: Some examples of observatories located on extreme locations
   funfact_item:
   - icon: ion-stats-bars
     name: Instruments commissioned
