@@ -54,10 +54,10 @@ funfacts:
     name: Combined Projects
     count: "200"
   testimonial_slider:
-  - name: 'lili '
+  - name: 'Herschel satellite '
     image: images/clients/avater-1.png
-    designation: joijoi
-    content: lgugou
+    designation: Herschel/HIFI instrument
+    content: HIFI was the heterodyne instrument onboard the Herschel satellite
   - name: APEX Telescope
     image: images/clients/avater-1.png
     designation: 12m submm telescope locate on the Chajnantor Plateau at 5100m
