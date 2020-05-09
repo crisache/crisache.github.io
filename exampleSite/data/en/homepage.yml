@@ -66,9 +66,8 @@ funfacts:
     image: images/clients/avater-1.png
     designation: Infrared airborne telescope
     content: 2.5 m telescope mountrd on an a Boeing 747 operated by NASA - DLR
-  - name: Rose Rio
+  - name: NOEMA observatory
     image: images/clients/avater-2.jpg
-    designation: CEO-Themefisher
-    content: This Company created an e-commerce site with the tools to make our business
-      a success, with innovative ideas we feel that our site has unique elements that
-      make us stand out from the crowd.
+    designation: 'millimeter interferometer '
+    content: Largest millimeter interferometer located in the northern hemisphere.
+      It is comprised of 10 atennas of 15m diameter each
