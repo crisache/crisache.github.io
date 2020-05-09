@@ -15,4 +15,5 @@ fields:
   label: bg image
   description: page header background image
 pages:
+- exampleSite/content/english/pages/conferences.md
 - exampleSite/content/english/pages/opportunities-within-the-receiver-group.md
