@@ -109,7 +109,7 @@ icon = "ion-compose"
 link = "#"
 [[params.social]]
 icon = "ion-planet"
-link = "#"
+link = "https://scholar.google.cl/citations?hl=en&user=KhlsDC8AAAAJ"
 [[params.social]]
 icon = "ion-images"
 link = "https://www.researchgate.net/profile/Christophe_Risacher"
