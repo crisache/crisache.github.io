@@ -38,7 +38,7 @@ cta:
     link: contact
 funfacts:
   enable: true
-  title: Fun Facts
+  title: Some observatories
   description: "'toto lliili et lulu '"
   funfact_item:
   - icon: ion-stats-bars
