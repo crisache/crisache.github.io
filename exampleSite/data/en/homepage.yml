@@ -67,7 +67,7 @@ funfacts:
     designation: Infrared airborne telescope
     content: 2.5 m telescope mountrd on an a Boeing 747 operated by NASA - DLR
   - name: NOEMA observatory
-    image: images/clients/avater-2.jpg
+    image: images/clients/noema.jpg
     designation: 'millimeter interferometer '
     content: Largest millimeter interferometer located in the northern hemisphere.
       It is comprised of 10 atennas of 15m diameter each
