@@ -59,7 +59,7 @@ funfacts:
     designation: Herschel/HIFI instrument
     content: HIFI was the heterodyne instrument onboard the Herschel satellite
   - name: APEX Telescope
-    image: images/clients/apex.png
+    image: images/apex.png
     designation: 12m submm telescope locate on the Chajnantor Plateau at 5100m
     content: 'Pathfinder telescope which started operation in 2005 '
   - name: SOFIA telescope
