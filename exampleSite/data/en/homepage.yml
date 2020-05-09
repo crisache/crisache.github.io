@@ -63,7 +63,7 @@ funfacts:
     designation: 12m submm telescope locate on the Chajnantor Plateau at 5100m
     content: 'Pathfinder telescope which started operation in 2005 '
   - name: SOFIA telescope
-    image: images/sofia.jpg
+    image: images/sofia_2.jpg
     designation: Infrared airborne telescope
     content: 2.5 m telescope mountrd on an a Boeing 747 operated by NASA - DLR
   - name: NOEMA observatory
