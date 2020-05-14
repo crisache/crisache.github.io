@@ -55,7 +55,7 @@ funfacts:
     count: "200"
   testimonial_slider:
   - name: 'Herschel satellite '
-    image: images/hifi.jpg
+    image: images/herschel.jpg
     designation: Herschel/HIFI instrument
     content: HIFI was the heterodyne instrument onboard the Herschel satellite
   - name: APEX Telescope
