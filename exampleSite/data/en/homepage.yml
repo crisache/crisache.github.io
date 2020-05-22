@@ -2,7 +2,7 @@
 banner:
   enable: true
   bg_image: images/A8.png
-  title: IRAM receiver <br/> & Development
+  title: Christophe Risacher
   content: Astronomical instrumentation
   button:
     enable: true
