@@ -39,8 +39,7 @@ service:
     content: Garching, DE and Santiago, Chile
   - icon: ion-bug
     name: MPIfR
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    content: Max Planck Institut für Radioastronomie in Bonn, DE
   - icon: ion-headphone
     name: APEX
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
