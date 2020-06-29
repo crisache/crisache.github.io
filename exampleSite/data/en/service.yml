@@ -28,9 +28,9 @@ service:
   description: Here you can find links to the various laboratories and observatories
     I collaborated with
   service_item:
-  - name: Branding
+  - name: IRAM
     icon: ion-bug
-    content: IRAM
+    content: NOEMA Observatory and the 30m telescope
   - icon: ion-compass
     name: NRAO
     content: lili loulou
