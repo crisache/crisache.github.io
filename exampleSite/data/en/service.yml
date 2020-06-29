@@ -42,8 +42,7 @@ service:
     content: Max Planck Institut für Radioastronomie in Bonn, DE
   - icon: ion-headphone
     name: APEX
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    content: 12m telescope in Northern Chile, Chajnantor Plateau at 5107 m
   - icon: ion-arrow-right-a
     name: SOFIA
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
