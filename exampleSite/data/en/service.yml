@@ -45,8 +45,7 @@ service:
     content: 12m telescope in Northern Chile, Chajnantor Plateau at 5107 m
   - icon: ion-arrow-right-a
     name: SOFIA
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    content: NASA/DLR observatory, living on the edge since 2010
   - icon: ion-planet
     name: IRAM-30m
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
