@@ -47,9 +47,8 @@ service:
     name: SOFIA
     content: NASA/DLR observatory, living on the edge since 2010
   - icon: ion-planet
-    name: IRAM-30m
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: ALMA
+    content: Largest mm and submm interferometer - Northern Chile, Chajnantor Plateau
   - icon: ion-earth
     name: IRAM-NOEMA
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
