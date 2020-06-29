@@ -50,9 +50,8 @@ service:
     name: ALMA
     content: Largest mm and submm interferometer - Northern Chile, Chajnantor Plateau
   - icon: ion-earth
-    name: IRAM-NOEMA
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: OAN - YEBES
+    content: 40m telescope up to 3mm band
 cta:
   enable: true
   button:
