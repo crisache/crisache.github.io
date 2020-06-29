@@ -36,8 +36,7 @@ service:
     content: Charlottesville Development Laboratory
   - icon: ion-image
     name: ESO
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    content: Garching, DE and Santiago, Chile
   - icon: ion-bug
     name: MPIfR
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
