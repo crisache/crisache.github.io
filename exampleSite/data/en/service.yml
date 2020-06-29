@@ -33,7 +33,7 @@ service:
     content: NOEMA Observatory and the 30m telescope
   - icon: ion-compass
     name: NRAO
-    content: lili loulou
+    content: Charlottesville Development Laboratory
   - icon: ion-image
     name: ESO
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
