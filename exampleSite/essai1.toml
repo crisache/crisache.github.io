@@ -4,5 +4,8 @@ description = "sdf"
 image = ""
 title = "essai1"
 [[information]]
+info = "true"
+label = "turn down"
+[[information]]
 info = "sdf"
 label = "tomato"
