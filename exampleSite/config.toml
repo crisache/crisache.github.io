@@ -36,8 +36,8 @@ URL = "contact"
 name = "Contact"
 weight = 6
 [[menu.main]]
-URL = "status table"
-name = "tuitu"
+URL = "status"
+name = "List"
 weight = "4"
 [[menu.main]]
 URL = "about"
