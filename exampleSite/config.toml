@@ -20,7 +20,7 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.footer]]
-URL = "tototo"
+URL = "about"
 name = "About"
 weight = 1
 [[menu.footer]]
