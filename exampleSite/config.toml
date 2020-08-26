@@ -36,6 +36,10 @@ URL = "contact"
 name = "Contact"
 weight = 6
 [[menu.main]]
+URL = "toto"
+name = "tuitu"
+weight = "123"
+[[menu.main]]
 URL = "about"
 name = "Vitae"
 weight = 1
