@@ -2,5 +2,7 @@ bg_image = ""
 category = ""
 description = "sdf"
 image = ""
-information = []
 title = "essai1"
+[[information]]
+info = "sdf"
+label = "tomato"
