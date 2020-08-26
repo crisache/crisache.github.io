@@ -1,11 +1,10 @@
 ---
 about:
   enable: true
-  title: Test
-  content: qq2 
-  upupe 
-  jpoupoe
-  poipoe
+  title: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
+      impedit repudiandae omnis est temporibus.
+  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
+      impedit repudiandae omnis est temporibus.
   image: images/company/company-group-pic.jpg
 featured_service:
   enable: true
