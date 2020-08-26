@@ -7,7 +7,7 @@ description = ""
 draft = true
 image = ""
 tags = []
-title = "status2"
+title = "status"
 type = "post"
 
 +++
