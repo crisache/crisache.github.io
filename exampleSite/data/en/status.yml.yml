@@ -39,7 +39,7 @@ cta:
 funfacts:
   enable: true
   title: Some observatories
-  description: Some examples of observatories located on extreme locations
+  description: Some exawmples of observatories located on extreme locations
   funfact_item:
   - icon: ion-stats-bars
     name: Instruments commissioned
