@@ -1,6 +1,1 @@
-+++
-bg_image = "/images/noema.jpg"
-description = "lihtf"
-title = "status"
-
-+++
+<iframe src="https://onedrive.live.com/embed?cid=24FF495B19C18DED&resid=24FF495B19C18DED%21192&authkey=AMcNWJSx5xtHrwY&em=2" width="402" height="346" frameborder="0" scrolling="no"></iframe>
