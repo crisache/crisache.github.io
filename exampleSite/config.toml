@@ -20,6 +20,10 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.footer]]
+URL = "toto"
+name = "testing"
+weight = "3"
+[[menu.footer]]
 URL = "about"
 name = "About"
 weight = 1
