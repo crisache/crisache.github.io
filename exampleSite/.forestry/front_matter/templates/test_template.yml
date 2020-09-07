@@ -50,5 +50,3 @@ fields:
     required: false
   label: text_f1
   description: ss
-pages:
-- exampleSite/content/english/project/jobs1.md
