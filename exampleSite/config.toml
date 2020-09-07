@@ -56,7 +56,7 @@ URL = "service"
 name = "Publications"
 weight = 3
 [[menu.main]]
-URL = "blog"
+URL = "Opportunity"
 name = "Opportunities"
 weight = 4
 [[menu.main]]
