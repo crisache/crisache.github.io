@@ -1,10 +1,12 @@
 +++
-bg_image = ""
+bg_image = "/images/grenoble.jpg"
 category = "project100"
 description = "proje10 "
-image = ""
-information = []
+image = "/images/apex.png"
 title = "project10"
+[[information]]
+info = "Is that"
+label = "Name"
 
 +++
 This is where the text goes
