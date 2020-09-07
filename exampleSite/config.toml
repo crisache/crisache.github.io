@@ -20,7 +20,7 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.footer]]
-URL = "toto"
+URL = "status2"
 name = "testing"
 weight = "3"
 [[menu.footer]]
@@ -42,7 +42,7 @@ weight = 6
 [[menu.main]]
 URL = "status"
 name = "List"
-weight = "1"
+weight = "4"
 [[menu.main]]
 URL = "about"
 name = "Vitae"
