@@ -32,5 +32,6 @@ fields:
     label: info
 pages:
 - exampleSite/content/english/project/example-2.md
+- exampleSite/content/english/project/likes.md
 - exampleSite/content/english/project/list1.md
 - exampleSite/content/english/project/project10.md
