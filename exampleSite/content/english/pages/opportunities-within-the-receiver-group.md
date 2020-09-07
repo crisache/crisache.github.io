@@ -1,6 +1,8 @@
 +++
 bg_image = ""
+bg_image2 = ""
 description = "Post doctoral / PhD Thesis / Master / Student trainees"
-title = "Opportunities within the receiver group"
+label2 = ""
+title = "Opportunity"
 
 +++
