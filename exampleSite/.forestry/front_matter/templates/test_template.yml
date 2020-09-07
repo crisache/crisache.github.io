@@ -50,3 +50,5 @@ fields:
     required: false
   label: text_f1
   description: ss
+pages:
+- exampleSite/data/en/test1.md
