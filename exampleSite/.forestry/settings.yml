@@ -30,6 +30,7 @@ sections:
   create: documents
   match: "**/*"
   templates:
+  - test_template
   - project
 - type: heading
   label: Others Pages
