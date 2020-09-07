@@ -22,6 +22,8 @@ fields:
   description: page header background image
 pages:
 - exampleSite/content/english/pages/conferences.md
+- exampleSite/content/english/pages/conferences.md
+- exampleSite/content/english/pages/opportunities-within-the-receiver-group.md
 - exampleSite/content/english/pages/opportunities-within-the-receiver-group.md
 - exampleSite/content/english/service/pub2.md
 - exampleSite/content/english/status2/status2.md
