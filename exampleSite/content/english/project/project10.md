@@ -5,6 +5,9 @@ description = "proje10 "
 image = "/images/apex.png"
 title = "project10"
 [[information]]
+info = "will go here"
+label = "Links"
+[[information]]
 info = "as of today"
 label = "Date"
 [[information]]
