@@ -4,6 +4,6 @@ category = ""
 description = "link to job applications"
 image = ""
 information = []
-title = "Jobs"
+title = "Jobs.yml"
 
 +++
