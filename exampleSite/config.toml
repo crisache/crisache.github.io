@@ -70,7 +70,7 @@ description = "This is meta description"
 email = "demo@email.com"
 google_analitycs_id = ""
 location = "Grenoble, France"
-logo = "images/logo_cr.jpg"
+logo = "images/cr_logo2.png"
 mobile = ""
 multi_author = false
 [params.gmap]
