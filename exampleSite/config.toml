@@ -40,8 +40,8 @@ URL = "contact"
 name = "Contact"
 weight = 6
 [[menu.main]]
-URL = "status"
-name = "List"
+URL = "status2"
+name = "Status"
 weight = "4"
 [[menu.main]]
 URL = "about"
