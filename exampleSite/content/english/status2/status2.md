@@ -1,7 +1,7 @@
 +++
 bg_image = "/images/blog/blog-post-2.jpg"
 description = "this is a test page"
-title = "status2"
+title = "status1"
 
 +++
 > # toto
