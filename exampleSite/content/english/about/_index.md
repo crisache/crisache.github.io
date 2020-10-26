@@ -12,4 +12,3 @@ social:
 
 ---
 
-{{< embed-pdf url="./main.pdf" >}}
