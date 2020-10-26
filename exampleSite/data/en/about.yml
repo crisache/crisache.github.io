@@ -4,3 +4,4 @@ author: Christophe Risacher
 date: October 26, 2020
 output: main
 ---
+{{< embed-pdf url="./main.pdf" >}}
