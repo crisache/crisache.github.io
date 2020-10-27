@@ -1,4 +1,3 @@
-{::options parse_block_html="true" /}
 
 ---
 title: Publications
@@ -6,6 +5,9 @@ description: List of relevant publications
 bg_image: "/images/book-1.jpg"
 
 ---
+
+{::options parse_block_html="true" /}
+
 # **oh;duh**
 
 doliudgliu
