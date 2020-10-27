@@ -3,11 +3,11 @@ about:
   enable: true
   image: images/company/about.jpg
   title: 'Curriculum Vitae - '
-  content: '{{< embed-pdf url="./main.pdf" >}}'
+  content: 'curiculum vitae as of 2020-11-01'
   button:
     enable: true
     label: Download Company Profile
-    link: "#"
+    link: "status2.html"
   funfacts:
   - icon: ion-ios-flask-outline
     name: Completed Projects
