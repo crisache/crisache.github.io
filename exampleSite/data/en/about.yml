@@ -3,10 +3,10 @@ about:
   enable: true
   image: images/company/about.jpg
   title: 'Curriculum Vitae - '
-  content: 'curiculum vitae as of 2020-11-01'
+  content: 
   button:
     enable: true
-    label: Download Company Profile
+    label: CV as of 2020-11-01
     link: "status2.html"
   funfacts:
   - icon: ion-ios-flask-outline
