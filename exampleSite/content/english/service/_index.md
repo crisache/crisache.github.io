@@ -1,3 +1,5 @@
+{::options parse_block_html="true" /}
+
 ---
 title: Publications
 description: List of relevant publications
