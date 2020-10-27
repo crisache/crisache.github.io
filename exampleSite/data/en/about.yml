@@ -8,7 +8,7 @@ about:
     enable: true
     label: CV as of 2020-11-01
     link: "status2.html"
-  button:
+  button2:
     enable: true
     label: CV2 as of 2021-11-01
     link: "status2.html"    
