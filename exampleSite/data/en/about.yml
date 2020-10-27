@@ -8,6 +8,10 @@ about:
     enable: true
     label: CV as of 2020-11-01
     link: "status2.html"
+  button:
+    enable: true
+    label: CV2 as of 2021-11-01
+    link: "status2.html"    
   funfacts:
   - icon: ion-ios-flask-outline
     name: Completed Projects
