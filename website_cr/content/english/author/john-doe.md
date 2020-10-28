@@ -1,5 +1,5 @@
 ---
-title: backup team
+title: toto
 email: email2@example.org
 bg_image: images/feature-bg.jpg
 social:

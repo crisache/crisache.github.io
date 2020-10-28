@@ -1,6 +1,6 @@
 ---
-title: About me
-email: c.risacher@icloud.com
+title: backup team
+email: email2@example.org
 bg_image: images/feature-bg.jpg
 social:
 - icon: ion-social-facebook-outline
@@ -11,5 +11,4 @@ social:
   link: "#"
 
 ---
-
 
